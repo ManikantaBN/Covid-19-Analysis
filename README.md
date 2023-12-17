@@ -39,7 +39,8 @@ Recognizing the importance of accessibility, the dashboard is designed with the 
 - **1 Line Chart:** Number of Confirmed, Cured, and Deaths Over Time
 - **1 Group of Map:** Number of Confirmed, Cured, and Deaths by State
 
-  ![covid-19](https://github.com/ManikantaBN/Covid-19-Analysis/assets/141845485/f3262ada-44b9-48e8-aa8f-fd083e5d3c48)
+![Covid-19](https://github.com/ManikantaBN/Covid-19-Analysis/assets/141845485/93e184c6-a09f-42e8-b29c-026ac56e5762)
+
 
 
 💉 **IN VACCINATION DETAILS PAGE:**
