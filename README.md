@@ -1,5 +1,6 @@
 # Covid-19-Analysis
 The COVID-19 Daily Cases dataset provides information on the daily reported COVID-19 cases, including the number of confirmed cases, deaths, recoveries, and testing data.
+
 🌐 **Gratitude to Intern Career - Empowering Insights through Covid-19 India Dashboard with Power BI!**
 
 Expressing heartfelt gratitude to Intern Career for providing the invaluable opportunity to contribute as an Intern Data Analyst. It is with great enthusiasm that we present the Covid-19 India Dashboard, a powerful tool crafted through collaboration and innovation. This dashboard, designed with the capabilities of Power BI, stands as a testament to the potential of data analytics in navigating complex challenges.
